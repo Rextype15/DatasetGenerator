@@ -1,0 +1,458 @@
+{
+   "properties":
+   [
+
+      {
+         "classification": "Apartment for Rent",
+         "propertiesMap": {
+            "en": {
+               "property": [
+                  "Apartment",
+                  "apartment",
+                  "Department",
+                  "department",
+                  "penthouse",
+                  "Penthouse",
+                  "Flat",
+                  "flat",
+                  "suite",
+                  "Suite"
+               ],
+               "operation": [
+                  "for rent",
+                  "For rent",
+                  "for Rent",
+                  "For Rent",
+                  "renting",
+                  "Renting",
+                  "in rent",
+                  "In rent",
+                  "in Rent",
+                  "In Rent"
+               ]
+            },
+            "es": {
+               "property": [
+                  "departamento",
+                  "Departamento",
+                  "apartamento",
+                  "Apartamento",
+                 "Depa"
+               ],
+               "operation": [
+                  "se renta",
+                  "Se renta",
+                  "se Renta",
+                  "Se Renta",
+                  "en renta",
+                  "En renta",
+                  "en Renta",
+                  "En Renta",
+                 "Renda"
+               ]
+            },
+            "de": {
+               "property": [
+                  "wohnung",
+                  "Wohnung",
+                  "appartement",
+                  "Appartement",
+                  "fläche",
+                  "Fläche"
+               ],
+               "operation": [
+                  "miete",
+                  "Miete",
+                  "vermiete",
+                  "Vermiete",
+                  "ver miete",
+                  "Ver miete",
+                  "ver Miete",
+                  "Ver Miete",
+                  "mieten",
+                  "Mieten",
+                  "vermieten",
+                  "Vermieten",
+                  "ver mieten",
+                  "Ver mieten",
+                  "ver Mieten",
+                  "Ver Mieten"
+               ]
+            }
+         }
+      }, {
+      "classification": "Apartment For Sale",
+      "propertiesMap": {
+         "en": {
+            "property": [
+               "Apartment",
+               "apartment",
+               "Department",
+               "department",
+               "penthouse",
+               "Penthouse",
+               "Flat",
+               "flat",
+               "suite",
+               "Suite"
+            ],
+            "operation": [
+               "for sale",
+               "For sale",
+               "for Sale",
+               "For Sale",
+               "selling",
+               "Selling",
+               "in sale",
+               "In sale",
+               "in Sale",
+               "In Sale"
+            ]
+         },
+         "es": {
+            "property": [
+               "departamento",
+               "Departamento",
+               "apartamento",
+               "Apartamento"
+            ],
+            "operation": [
+               "se vende",
+               "Se vende",
+               "se Vende",
+               "Se Vende",
+               "en venta",
+               "En venta",
+               "en Venta",
+               "En Venta"
+            ]
+         },
+         "de": {
+            "property": [
+               "wohnung",
+               "Wohnung",
+               "appartement",
+               "Appartement",
+               "fläche",
+               "Fläche"
+            ],
+            "operation": [
+               "kaufe",
+               "Kaufe",
+               "verkaufe",
+               "Verkaufe",
+               "ver kaufe",
+               "Ver kaufe",
+               "ver Kaufe",
+               "Ver Kaufe",
+               "kaufen",
+               "Kaufen",
+               "verkaufen",
+               "Verkaufen",
+               "ver kaufen",
+               "Ver kaufen",
+               "ver Kaufen",
+               "Ver Kaufen"
+            ]
+         }
+
+      }
+   }, {
+      "classification": "Office for Rent",
+      "propertiesMap": {
+         "en": {
+            "property": [
+               "office",
+               "Office",
+               "workplace",
+               "Workplace"
+            ],
+            "operation": [
+               "for rent",
+               "For rent",
+               "for Rent",
+               "For Rent",
+               "renting",
+               "Renting",
+               "in rent",
+               "In rent",
+               "in Rent",
+               "In Rent"
+            ]
+         },
+         "es": {
+            "property": [
+               "oficina",
+               "Oficina",
+               "despacho",
+               "Despacho"
+            ],
+            "operation": [
+               "se renta",
+               "Se renta",
+               "se Renta",
+               "Se Renta",
+               "en renta",
+               "En renta",
+               "en Renta",
+               "En Renta"
+            ]
+         },
+         "de": {
+            "property": [
+               "Büro",
+               "büro",
+               "Amt",
+               "amt"
+            ],
+            "operation": [
+               "miete",
+               "Miete",
+               "vermiete",
+               "Vermiete",
+               "ver miete",
+               "Ver miete",
+               "ver Miete",
+               "Ver Miete",
+               "mieten",
+               "Mieten",
+               "vermieten",
+               "Vermieten",
+               "ver mieten",
+               "Ver mieten",
+               "ver Mieten",
+               "Ver Mieten"
+            ]
+         }
+      }
+   }, {
+      "classification": "Office For Sale",
+      "propertiesMap": {
+         "en": {
+            "property": [
+               "office",
+               "Office",
+               "workplace",
+               "Workplace"
+            ],
+            "operation": [
+               "for sale",
+               "For sale",
+               "for Sale",
+               "For Sale",
+               "selling",
+               "Selling",
+               "in sale",
+               "In sale",
+               "in Sale",
+               "In Sale"
+            ]
+         },
+         "es": {
+            "property": [
+               "oficina",
+               "Oficina",
+               "despacho",
+               "Despacho"
+            ],
+            "operation": [
+               "se vende",
+               "Se vende",
+               "se Vende",
+               "Se Vende",
+               "en venta",
+               "En venta",
+               "en Venta",
+               "En Venta"
+            ]
+         },
+         "de": {
+            "property": [
+               "Büro",
+               "büro",
+               "Amt",
+               "amt"
+            ],
+            "operation": [
+               "kaufe",
+               "Kaufe",
+               "verkaufe",
+               "Verkaufe",
+               "ver kaufe",
+               "Ver kaufe",
+               "ver Kaufe",
+               "Ver Kaufe",
+               "kaufen",
+               "Kaufen",
+               "verkaufen",
+               "Verkaufen",
+               "ver kaufen",
+               "Ver kaufen",
+               "ver Kaufen",
+               "Ver Kaufen"
+            ]
+         }
+      }
+   }, {
+      "classification": "House For Sale",
+      "propertiesMap": {
+         "en": {
+            "property": [
+               "house",
+               "House",
+               "home",
+               "Home",
+               "residence",
+               "Residence",
+               "mansion",
+               "Mansion",
+               "condo",
+               "Condo"
+            ],
+            "operation": [
+               "for sale",
+               "For sale",
+               "for Sale",
+               "For Sale",
+               "selling",
+               "Selling",
+               "in sale",
+               "In sale",
+               "in Sale",
+               "In Sale"
+            ]
+         },
+         "es": {
+            "property": [
+               "casa",
+               "Casa",
+               "mansion",
+               "mansión",
+               "Mansion",
+               "Mansión",
+               "hogar",
+               "Hogar",
+               "residencia",
+               "Residencia"
+            ],
+            "operation": [
+               "se vende",
+               "Se vende",
+               "se Vende",
+               "Se Vende",
+               "en venta",
+               "En venta",
+               "en Venta",
+               "En Venta"
+            ]
+         },
+         "de": {
+            "property": [
+               "hausen",
+               "Hausen",
+               "haus",
+               "Haus",
+               "zuhause",
+               "Zuhause"
+            ],
+            "operation": [
+               "kaufe",
+               "Kaufe",
+               "verkaufe",
+               "Verkaufe",
+               "ver kaufe",
+               "Ver kaufe",
+               "ver Kaufe",
+               "Ver Kaufe",
+               "kaufen",
+               "Kaufen",
+               "verkaufen",
+               "Verkaufen",
+               "ver kaufen",
+               "Ver kaufen",
+               "ver Kaufen",
+               "Ver Kaufen"
+            ]
+         }
+      }
+   }, {
+      "classification": "House for Rent",
+      "propertiesMap": {
+         "en": {
+            "property": [
+               "house",
+               "House",
+               "home",
+               "Home",
+               "residence",
+               "Residence",
+               "mansion",
+               "Mansion",
+               "condo",
+               "Condo"
+            ],
+            "operation": [
+               "for rent",
+               "For rent",
+               "for Rent",
+               "For Rent",
+               "renting",
+               "Renting",
+               "in rent",
+               "In rent",
+               "in Rent",
+               "In Rent"
+            ]
+         },
+         "es": {
+            "property": [
+               "casa",
+               "Casa",
+               "mansion",
+               "mansión",
+               "Mansion",
+               "Mansión",
+               "hogar",
+               "Hogar",
+               "residencia",
+               "Residencia"
+            ],
+            "operation": [
+               "se renta",
+               "Se renta",
+               "se Renta",
+               "Se Renta",
+               "en renta",
+               "En renta",
+               "en Renta",
+               "En Renta"
+            ]
+         },
+         "de": {
+            "property": [
+               "Wohnung",
+               "Wohnung"
+            ],
+            "operation": [
+               "miete",
+               "Miete",
+               "vermiete",
+               "Vermiete",
+               "ver miete",
+               "Ver miete",
+               "ver Miete",
+               "Ver Miete",
+               "mieten",
+               "Mieten",
+               "vermieten",
+               "Vermieten",
+               "ver mieten",
+               "Ver mieten",
+               "ver Mieten",
+               "Ver Mieten"
+            ]
+         }
+      }
+   }
+   ]
+}
